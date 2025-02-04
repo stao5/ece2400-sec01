@@ -2,4 +2,4 @@ C
 C++
 Python
 MATLAB
-JAva
+Java
